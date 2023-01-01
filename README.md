@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm khalissa</h1>
 <h3 align="center">A passionate frontend developer and UI UX Designer</h3>
 
-- 🔭 I’m currently working on **React Projects and 50 Javascript**
+- 🔭 I’m currently working on **React Projects and 50 Javascript Projects**
 
 - 🌱 I’m currently learning **React**
 
