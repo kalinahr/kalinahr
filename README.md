@@ -1,18 +1,31 @@
-<h1 align="center">Hi 👋, I'm khalissa</h1>
-<h3 align="center">A passionate frontend developer and UI UX Designer</h3>
 
-- 🔭 I’m currently working on **React Projects and 50 Javascript Projects**
+             🌸
+   💗  Hi I am kali coder💗
+             🌸
 
-- 🌱 I’m currently learning **React**
+👩‍💻💻✨ Hi there, I'm kali coder! I'm a passionate frontend developer with a love for creating visually appealing and user-friendly web applications. 🌟
 
-- 📝 I regularly write articles on [https://kalina.hashnode.dev/](https://kalina.hashnode.dev/)
+🎨🖥️ I specialize in crafting beautiful user interfaces and engaging user experiences using the latest frontend development tools and technologies. From HTML and CSS to JavaScript frameworks like React and Vue, I enjoy bringing designs to life and making them interactive and responsive. 
 
-- 💬 Ask me about **CSS, JAVASCRIPT, React and Ui Ux design**
 
-- 📫 How to reach me **https://twitter.com/khalissacode**
+         🌼                   🌼
+     🌼             🌼
+        🌸 Frontend developer 🌸
+     🌼             🌼            🌼
 
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+🔨📦 Some of the tools you can find in my frontend development toolbox include:
+
+- HTML5: 🌐
+- CSS3: 🎨
+- JavaScript: ⚡️
+- React: ⚛️
+- SASS/SCSS: 💃
+- Bootstrap: 🅱️
+- Git: 🌳
+
+📝🌐 Additionally, I'm also a technical writer, passionate about sharing my knowledge and experiences with the community. Through tutorials, articles, and documentation, I strive to empower fellow developers and enthusiasts in their frontend development journey. 
+
+🚀🌈 Join me as we dive into the exciting world of frontend development, creating stunning interfaces, and building seamless user experiences! Let's bring ideas to life and make the web a more beautiful and interactive place together! ✨🌍
+
+Feel free to customize and expand upon this description to reflect your own personal experiences and skills. Happy frontend development! 👩‍💻💫
