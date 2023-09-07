@@ -5,7 +5,7 @@
 
 👩‍💻💻✨ Hi there, I'm kali coder! I'm a passionate frontend developer with a love for creating visually appealing and user-friendly web applications. 🌟
 
-🎨🖥️ I specialize in crafting beautiful user interfaces and engaging user experiences using the latest frontend development tools and technologies. From HTML and CSS to JavaScript frameworks like React and Vue, I enjoy bringing designs to life and making them interactive and responsive. 
+🎨🖥️ I specialize in crafting beautiful user interfaces and engaging user experiences using the latest frontend development tools and technologies. From HTML and CSS to JavaScript frameworks like React , I enjoy bringing designs to life and making them interactive and responsive. 
 
 
          🌼                   🌼
@@ -19,7 +19,7 @@
 - HTML5: 🌐
 - CSS3: 🎨
 - JavaScript: ⚡️
-- React: ⚛️
+- React:nnext js typescript ⚛️
 - SASS/SCSS: 💃
 - Bootstrap: 🅱️
 - Git: 🌳
